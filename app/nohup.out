@@ -1,0 +1,108 @@
+[2023-02-14 07:51:57.886 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:51:57.889 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:51:57.895 +0000] INFO  (16541 on centos8.local): block #7626
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:51:57.895 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:51:57.901 +0000] INFO  (16541 on centos8.local): block #7626
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:02.905 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:02.907 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:02.911 +0000] INFO  (16541 on centos8.local): block #7627
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:02.912 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:02.918 +0000] INFO  (16541 on centos8.local): block #7627
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:07.918 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:07.921 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:07.929 +0000] INFO  (16541 on centos8.local): block #7629
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:07.929 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:07.935 +0000] INFO  (16541 on centos8.local): block #7629
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:12.936 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:12.940 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:12.946 +0000] INFO  (16541 on centos8.local): block #7631
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:12.946 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:12.954 +0000] INFO  (16541 on centos8.local): block #7631
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:17.956 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:17.959 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:17.966 +0000] INFO  (16541 on centos8.local): block #7632
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:17.966 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:17.971 +0000] INFO  (16541 on centos8.local): block #7632
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:22.974 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:22.978 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:22.985 +0000] INFO  (16541 on centos8.local): block #7634
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:22.985 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:22.991 +0000] INFO  (16541 on centos8.local): block #7634
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:27.990 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:27.994 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:28.000 +0000] INFO  (16541 on centos8.local): block #7636
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:28.000 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:28.008 +0000] INFO  (16541 on centos8.local): block #7636
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:33.010 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:33.013 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:33.020 +0000] INFO  (16541 on centos8.local): block #7637
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:33.020 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:33.026 +0000] INFO  (16541 on centos8.local): block #7637
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:38.029 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:38.032 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:38.042 +0000] INFO  (16541 on centos8.local): block #7639
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:38.043 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:38.052 +0000] INFO  (16541 on centos8.local): block #7639
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:43.056 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:43.059 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:43.068 +0000] INFO  (16541 on centos8.local): block #7641
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:43.068 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:43.076 +0000] INFO  (16541 on centos8.local): block #7641
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:48.076 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:48.079 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:48.084 +0000] INFO  (16541 on centos8.local): block #7643
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:48.085 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:48.092 +0000] INFO  (16541 on centos8.local): block #7643
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
+[2023-02-14 07:52:53.093 +0000] INFO  (16541 on centos8.local): runMain
+[2023-02-14 07:52:53.096 +0000] INFO  (16541 on centos8.local): emitInitiateChange
+[2023-02-14 07:52:53.101 +0000] INFO  (16541 on centos8.local): block #7644
+	currentCycleEndBlock: 57623
+	shouldEmitInitiateChange: false
+[2023-02-14 07:52:53.101 +0000] INFO  (16541 on centos8.local): emitRewardedOnCycle
+[2023-02-14 07:52:53.107 +0000] INFO  (16541 on centos8.local): block #7644
+	currentCycleEndBlock: 57623
+	shouldEmitRewardedOnCycle: false
